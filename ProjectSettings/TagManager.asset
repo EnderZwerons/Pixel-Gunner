@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - hit_arm
+  - hit_body
+  - hit_head
+  - deadbody
+  - item_bullet
+  - ground
+  - gold
+  - Magnet
+  - blood
+  - auto
+  - Enemy_bim
+  - diebox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NGUI
+  - Gun
+  - Monster
+  - NGUI2
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: album
+    uniqueID: 3771091833
+    locked: 0

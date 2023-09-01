@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/logo.unity
+    guid: efbba83f112348e4eb60e46c7633de3d
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/1_AD.unity
+    guid: 6bb1f26a9c53e0f4a8a16ec30c744493
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/3_Main/main.unity
+    guid: 0139f8c96bf02f045b2a5c094924cada
+  - enabled: 1
+    path: Assets/Scene/Scene/0_GDPR/0_GDPR.unity
+    guid: bf5ecc96e32e0654a923c39c9f92411b
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/weapon.unity
+    guid: 5c01f4ab12431ad4abba1d59b2b7fd63
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/char.unity
+    guid: df0b0ec9047ca4848af2d7e48d8641db
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/shop.unity
+    guid: dd51e1dbc55224140be09c78afbbeee9
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/8_Stage_Select/Mission/stage_select.unity
+    guid: 941364ab22747e64faf097a2763305f9
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/loading.unity
+    guid: 2cd229686813d8148ba5b516298dd9c4
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/10_Game_Mission/game_scene.unity
+    guid: ddaa023db90eb86449925a588d4b39b5
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/upgrade.unity
+    guid: 19f688bc36b3db344a629363da710bc9
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/1/game_survival.unity
+    guid: a78ab2baff96bcb42b9ed7bfb038261c
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/8_Stage_Select/Boss/boss_select.unity
+    guid: b58cc28e9746a4642b301919f48f6a05
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/loading_tomain.unity
+    guid: 554c14bd3b4c42c478d00ea80db9c94a
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/loading_tosurvival.unity
+    guid: 76f7d137958a79f4ebee9fc2bbfe1817
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/8_Stage_Select/mode_select.unity
+    guid: 65524f70bc0555b4ea50b6f5dd00e00a
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/2/survival_2.unity
+    guid: 67b2ecb8f5793a443b8802b2f2bf8746
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/3/survival_3.unity
+    guid: c97afa8caa8b4524bbefe0c80dc5dd8b
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/4/survival_4.unity
+    guid: 842d7005a93c4684e87e0a7706d6e0d9
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/5/survival_5.unity
+    guid: 6a8502bbb61c5524696e5cc96fad49ff
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/6/survival_6.unity
+    guid: 6b41311ed8dc62043915ce0289bc112d
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/7/survival_7.unity
+    guid: 26d9560a23c81b543a59c3c37f16286f
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/8/survival_8.unity
+    guid: 1f92d16c6c5a7d541b318958ecb75c35
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/9/survival_9.unity
+    guid: 4dcb24987bdc23e44bda0790f67d0be8
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/10/survival_10.unity
+    guid: c2ccbcd3c9f5dfe44a5556430097071d
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/11/survival_11.unity
+    guid: 9690c0c0d92984b4bb9feb265dd9e24a
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/12/survival_12.unity
+    guid: b3c78e4b42404d841997f730b1553fa5
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/13/survival_13.unity
+    guid: 54831bccae2909b40ab821f1e55d623f
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/14/survival_14.unity
+    guid: 4cc85a9be12162e4aa30e2b900160253
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/15/survival_15.unity
+    guid: 62abf3acf8d89ee429b503655756a1ba
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/16/survival_16.unity
+    guid: a4fba02bb6e5c7847b3adc265a9fe7ea
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/17/survival_17.unity
+    guid: e819616da43f77445b4a2186d71e7236
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/18/survival_18.unity
+    guid: 9b781faab0fee834898094713da8afc6
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/19/survival_19.unity
+    guid: 6e3430eefab99c847a93d61f011db0fc
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/20/survival_20.unity
+    guid: 91444cea4bf0ee340acd076d1e088247
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/21/survival_21.unity
+    guid: 1a6f4bb7fda5d4a4980d8eba9eb4578d
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/22/survival_22.unity
+    guid: 765a967521c594a43aa8e74b86454eed
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/11_Game_Survival/23/survival_23.unity
+    guid: 4b70f9047e550984ca4d5f8e3179b371
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/12_Game_Boss/Boss1/Boss_1.unity
+    guid: 4ea08969ad0c4624482321d6e6549526
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/loading_toboss.unity
+    guid: fb7603f573ad77e428f1a0670ef6d7c9
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/8_Stage_Select/Boss/boss_select.unity
+    guid: b58cc28e9746a4642b301919f48f6a05
+  - enabled: 1
+    path: Assets/Scene/Scene/1_Scene/8_Stage_Select/Sur/Stage_Survival.unity
+    guid: 5731f36027bbde049a73e6b24df5b658
